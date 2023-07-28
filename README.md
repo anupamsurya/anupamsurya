@@ -1,3 +1,23 @@
+<div id="header" align="center"> 
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <p align="center">
+  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I%E2%80%99m+Anupam+Surya!;Data+Scientist;Data+Analyst;Always+learning+new+things!;Love+to+work+on+DS+and+ML+projects;&center=true&width=380&height=45"></a> 
+  </p>
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/anupam-suryawanshi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://linktr.ee/mihirkudale">
+    <img src="https://img.shields.io/badge/Linktree-39E07C?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  </a>
+  <a href="mailto:annupam.surya1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  </div>
+      <img src="https://komarev.com/ghpvc/?username=anupamsurya&style=flat-square&color=blue" alt=""/>
+</div>
+
 ## Hi 👋 , I am Anupam Surya
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
