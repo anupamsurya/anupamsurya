@@ -1,7 +1,7 @@
 <div id="header" align="center"> 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I%E2%80%99m+Anupam+Surya!;Data+Scientist;Data+Analyst;Always+learning+new+things!;Love+to+work+on+DS+and+ML+projects;&center=true&width=380&height=45"></a> 
+  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I%E2%80%99m+Anupam+Surya!;Data+Scientist;Data+Analyst;Always+learning+new+things!;Love+to+work+on+DS+and+ML+projects!;&center=true&width=380&height=45"></a> 
   </p>
   
   <div id="badges">
@@ -28,11 +28,11 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/anupam-suryawanshi/)
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning.**
 
 - 📫 How to reach me **anupam.surya1@gmail.com**
 
-- 🔭 I’m currently working on [Data Science Projects and my portfolio](https://github.com/anupamsurya)
+- 🔭 I’m currently working on [data science projects and my portfolio.](https://github.com/anupamsurya)
 
 ## GitHub Stats 💯
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamsurya&show_icons=true&locale=en&layout=compact" alt="anupamsurya" /></p>
