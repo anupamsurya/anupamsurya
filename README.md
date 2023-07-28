@@ -1,5 +1,6 @@
 ## Hi 👋 , I am Anupam Surya
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="225">
 
 - 🌱 I’m passionate about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Data Analytics**
 
