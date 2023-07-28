@@ -1,4 +1,4 @@
-### Hi, I am Anupam Surya 👋
+## Hi 👋 , I am Anupam Surya
 
 <!--
 **anupamsurya/anupamsurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
