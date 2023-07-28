@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/anupam-suryawanshi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://linktr.ee/mihirkudale">
+   <a href="https://linktr.ee/anupamsurya">
     <img src="https://img.shields.io/badge/Linktree-39E07C?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
   <a href="mailto:annupam.surya1@gmail.com">
@@ -22,13 +22,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-- 🌱 I’m passionate about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Data Analytics**
+- 🌱 I’m passionate about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [anupamsurya](https://github.com/anupamsurya)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/anupam-suryawanshi/)
 
-- 💬 Ask me about **Data Science, Machine Learning, Python, Data Analytics**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📫 How to reach me **anupam.surya1@gmail.com**
 
