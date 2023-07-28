@@ -4,8 +4,6 @@
 
 - 🌱 I’m passionate about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Data Analytics**
 
-- 👯 I’m looking to collaborate on **House payment app**
-
 - 👨‍💻 All of my projects are available at [anupamsurya](https://github.com/anupamsurya)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/anupam-suryawanshi/)
